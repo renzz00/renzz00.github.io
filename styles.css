@@ -11,6 +11,13 @@ header {
     font-size: medium;
 }
 
+a {
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: medium;
+}
+
 h1 {
     color:white;
     font-family: 'Courier New', Courier, monospace;
