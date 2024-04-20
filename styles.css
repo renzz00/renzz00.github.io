@@ -20,3 +20,9 @@ p {
     font-family: 'Courier New', Courier, monospace;
 
 }
+
+footer {
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
