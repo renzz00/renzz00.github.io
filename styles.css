@@ -4,13 +4,6 @@ body {
     text-align: center;
 }
 
-header {
-    color:white;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    font-size: medium;
-}
-
 a {
     color:white;
     font-family: 'Courier New', Courier, monospace;
@@ -28,6 +21,7 @@ h1 {
 	border-color: white;
 	border-radius: 10px;
 	padding: 5px;
+	display: inline-block;
 }
 p {
     color:white;
