@@ -2,6 +2,7 @@ body {
     margin: 10px;
     background-image: url("background.jpg");
     text-align: center;
+    
 }
 
 a {
@@ -10,6 +11,7 @@ a {
     font-weight: bold;
     font-size: large;
     margin-top: 10px;
+    
 }
 
 h1 {
@@ -18,10 +20,11 @@ h1 {
     font-style: italic;
     font-weight: bold;
     border-style:solid;
-	border-color: white;
-	border-radius: 10px;
-	padding: 5px;
-	display: inline-block;
+    border-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    display: inline-block;
+    
 }
 p {
     color:white;
