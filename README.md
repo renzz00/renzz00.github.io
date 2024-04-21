@@ -1,1 +1,0 @@
-### Hello! I am **renzz**, the guy behind the [Ultimate Bookmarklet Hack](https://github.com/renzz00/ultimate-bookmarklet-hacks) and also the [BONELAB Starter Pack.](https://github.com/renzz00/BONELAB-Starter-Pack)
