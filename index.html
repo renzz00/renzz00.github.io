@@ -55,6 +55,12 @@
         win.document.body.style.margin = "0";
         win.document.body.style.height = "100vh";
         win.document.body.appendChild(iframe);
+        win.document.title = "Google Docs"
+        var link = win.document.createElement('link')
+        link.type = 'image/x-icon'
+        link.rel = 'shortcut icon'
+        link.href = 'https://ssl.gstatic.com/docs/documents/images/kix-favicon-2023q4.ico'
+        win.document.getElementsByTagName('head')[0].appendChild(link)
     }
     </script>
 
